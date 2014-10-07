@@ -8,3 +8,6 @@ moveItemAtPath
 copyItemAtPath
 remoteItemAtPath
 createSymbolicLinkAtPath
+createFileAtPath.*attributes:nil
+NSFileProtectionNone
+writeToFile
